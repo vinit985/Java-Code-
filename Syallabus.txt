@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                           BASIC OF JAVA AND DATA STRUCTURE --Level 1
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MODULE 1:TOPIC TO BE COVERES IN BASIC
+1.Getting started
+2.Variables,Loops,Conditions and Data types.
+3.Patterns
+4.Number System
+5.Arrays and Function
+6.2D Arrays
+7.Strings
+8.ArrayList and StringBuilder
+MODULE 2: 
+1.Recursion
+2.Time and Space Complexity
+3.Dynamic Programming (We will learn only approach to solve problem using more memory and avoding more time)
+MODULE 3:Basic Data Structure
+1.Stacks
+2.Queues
+3.Linked List
+4.Tree
+  a.Generic Tree
+  b.Binary Tree
+  c.Binary Search Tree
+MODULE 4 :Advance DSA
+1.Graphs
+2.HashMaps
+3.Heaps
+
